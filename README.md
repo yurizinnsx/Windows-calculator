@@ -11,6 +11,7 @@ Welcome to Windows Calculator, a simple and educational tool designed to help de
 ## How to use
 
 1. **Clone the Repository:**
+   https://github.com/yurizinnsx/Windows-calculator.git
 
 2. **Open the Project:**
    Open the project directory in your favorite development environment.
